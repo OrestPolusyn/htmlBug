@@ -1,6 +1,5 @@
 $(document).ready(function() {
     function detectOS() {
-        sw
         const platform = navigator.platform.toLowerCase(),
             iosPlatforms = ['iphone', 'ipad', 'ipod', 'ipod touch'];
 
